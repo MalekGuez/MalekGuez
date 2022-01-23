@@ -9,7 +9,7 @@
 🌱&nbsp; I'm on track for learning more about Web Development, and Web Design.\
 💻&nbsp; In my free time, I do graphic design and video montage as hobbies/side hustles.\
 💬&nbsp; Feel free to contact me for consulting, helping, or just for some interesting discussion.\
-✉️&nbsp; You can shoot me an email at guezoulimalek@gmail.com ! I'll try to respond as soon as I can.
+✉️&nbsp; You can shoot me an email at [my email](mail:toguezoulimalek@gmail.com) ! I'll try to respond as soon as I can.
 
 ### 🛠 Tech Knowledge
 
