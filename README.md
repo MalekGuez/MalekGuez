@@ -40,8 +40,9 @@
 
 <p align="center">
     <a href="https://github.com/MalekGuez">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MalekGuez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MalekGuez&layout=compact&langs_count=8&theme=tokyonight"/>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalekGuez&layout=compact&theme=dark&border_color=222&bg_color=111&text_color=fff&border_radius=16px" width="45%" /> <a href="https://wakatime.com/@ejer" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=MalekGuez&show_icons=true&count_private=true&theme=dark&border_color=222&bg_color=111&text_color=fff&custom_title=GitHub%20Stats&border_radius=16px" width="54%"/>
+</a>
     </a>
 </p>
 
