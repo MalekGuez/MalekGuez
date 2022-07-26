@@ -1,4 +1,4 @@
-<a href="https://malekguez.netlify.app/">
+<a href="https://malekguez.netlify.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/MalekGuez/MalekGuez/master/assets/MalekBanner.png" alt="Malek Banner"/>
 </a>
 
