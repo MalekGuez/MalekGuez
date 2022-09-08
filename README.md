@@ -7,8 +7,8 @@
 ### 📌&nbsp; About Me
 
 💡&nbsp; I like to explore new technologies, and learn new things. I also like to develop and design websites.\
-🎓&nbsp; I'm currently studying Web Development at Highschool Lycée Camille Sée from Colmar, France.\
-🌱&nbsp; I'm on track for learning more about Web Development, and Web Design.\
+🎓&nbsp; I'm currently studying Web Development at home by following an online courses from OpenClassrooms, and also an apprentice in the company Ukoo, based in Mulhouse, France.\
+🌱&nbsp; I'm on track to learn more about Web Development, and Web Design.\
 💻&nbsp; In my free time, I do graphic design and video montage as hobbies/side hustles.\
 💬&nbsp; Feel free to contact me for consulting, helping, or just for some interesting discussion.\
 ✉️&nbsp; You can shoot me an email at guezoulimalek@gmail.com ! I'll try to respond as soon as I can.
