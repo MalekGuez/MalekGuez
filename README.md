@@ -13,7 +13,7 @@
 💬&nbsp; Feel free to contact me for consulting, helping, or just for some interesting discussion.\
 ✉️&nbsp; You can shoot me an email at guezoulimalek@gmail.com ! I'll try to respond as soon as I can.
 
-### 🛠 Tech Knowledge
+### 🛠 Tech' Knowledge
 
 #### Programming languages
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
