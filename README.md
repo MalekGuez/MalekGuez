@@ -50,7 +50,7 @@
 ### 🤝🏻&nbsp; Connect with me
 
 <p>
-    <a href="https://www.malekguez.xyz](https://malekguez.netlify.app/" target="_blank">
+    <a href="https://malekguez.netlify.app/" target="_blank">
         <img src="https://img.shields.io/badge/malekguez.xyz-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/malek-guezouli-6b407022a" target="_blank">
