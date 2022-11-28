@@ -2,9 +2,9 @@
     <img src="https://raw.githubusercontent.com/MalekGuez/MalekGuez/master/assets/MalekBanner.png" alt="Malek Banner"/>
 </a>
 
-# 👋&nbsp; Hello there ! I'm Malek
+# 👋&nbsp; <samp>Hello there ! I'm Malek</samp>
 
-### 📌&nbsp; About Me
+### 📌&nbsp; <samp>About Me </samp>
 
 💡&nbsp; I like to explore new technologies, and learn new things. I also like to develop and design websites.\
 🎓&nbsp; I'm currently studying Web Development at home by following online courses from OpenClassrooms, and also an apprentice in the company Ukoo, based in Mulhouse, France.\
@@ -13,9 +13,9 @@
 💬&nbsp; Feel free to contact me for consulting, helping, or just for some interesting discussion.\
 ✉️&nbsp; You can shoot me an email at guezoulimalek@gmail.com ! I'll try to respond as soon as I can.
 
-### 🛠 Tech' Knowledge
+### 🛠 <samp>Tech' Knowledge</samp>
 
-#### Programming languages
+#### <samp>Programming languages</samp>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -28,19 +28,19 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-#### Coding software
+#### <samp>Coding software</samp>
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 
-#### Design software
+#### <samp>Design software</samp>
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)&nbsp;
 ![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-3d34eb?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)&nbsp;
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)&nbsp;
 ![After Effect](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)&nbsp;
 
-### ⚙️&nbsp; GitHub Stats
+### ⚙️&nbsp; <samp>GitHub Stats</samp>
 
 <p align="center">
     <a href="https://github.com/MalekGuez">
@@ -49,7 +49,7 @@
     </a>
 </p>
 
-### 🤝🏻&nbsp; Connect with me
+### 🤝🏻&nbsp; <samp>Connect with me</samp>
 
 <p>
     <a href="https://malekguez.netlify.app/" target="_blank">
