@@ -44,7 +44,7 @@
 
 <p align="center">
     <a href="https://github.com/MalekGuez" align="center">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalekGuez&layout=compact&theme=dark&border_color=222&bg_color=111&text_color=fff&border_radius=16px" width="45%" /> <a href="#" target="_blank">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalekGuez&layout=compact&theme=dark&border_color=222&text_color=fff&border_radius=16px" width="45%" /> <a href="#" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=MalekGuez&show_icons=true&count_private=true&include_all_commits=true&theme=dark&border_color=222&bg_color=111&text_color=fff&hide_title=true&border_radius=16px" width="54%"/>
     </a>
 </p>
