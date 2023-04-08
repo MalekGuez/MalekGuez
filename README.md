@@ -1,7 +1,3 @@
-<a href="https://malekguez.netlify.app/" target="_blank" rel="noopener">
-    <img src="https://raw.githubusercontent.com/MalekGuez/MalekGuez/master/assets/MalekBanner.png" alt="Malek Banner"/>
-</a>
-
 # 👋&nbsp; <samp>Hello there ! I'm Malek</samp>
 
 ### 📌&nbsp; <samp>About Me </samp>
