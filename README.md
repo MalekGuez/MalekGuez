@@ -48,5 +48,5 @@
     <a href="https://www.linkedin.com/in/malek-guezouli-6b407022a" target="_blank">
         <img src="https://img.shields.io/badge/Malek%20GUEZOULI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <img src="https://img.shields.io/badge/Malek%234178-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+<!--     <img src="https://img.shields.io/badge/Malek%234178-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> -->
 </p>
